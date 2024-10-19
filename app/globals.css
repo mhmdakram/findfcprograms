@@ -26,11 +26,4 @@ body {
   }
 }
 
-.radial-blur {
-  background: radial-gradient(
-    circle,
-    rgba(188, 255, 111, 0.5) 80%,
-    /* Middle color with 50% opacity */ rgba(236, 255, 235, 0.9) 100%
-      /* Color at the ends */
-  );
-}
+
