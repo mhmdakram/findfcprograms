@@ -41,11 +41,7 @@ function Header() {
     <header className="flex items-center justify-between pt-2 px-8 radial-blur">
       {/* Logo */}
       <div className="flex items-center">
-        <img
-          src="../assets/logo.png"
-          alt="FindFC Logo"
-          className="h-32 w-auto"
-        />
+        <img src="/assets/logo.png" alt="FindFC Logo" className="h-32 w-auto" />
       </div>
 
       {/* Navigation */}
